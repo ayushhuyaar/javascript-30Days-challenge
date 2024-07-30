@@ -1,2 +1,2 @@
-This is 30 Days javascript challenge by Hitesh chaudhary (chair aur code)
+I have taken 30 days javascript challenge (from Chai aur code)
 
